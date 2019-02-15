@@ -7,10 +7,10 @@ The name "Brana" (ብራና) is itself a homage to the original media of Ethiopi
 
 To learn more about the author:
 
-* You may read more about Amha Asfaw in the Senamirmir interview here:
+* You may read more about Amha Asfaw in the Senamirmir interview here:  
   [http://senamirmir.com/interviews/theme/9-2003/aa/](http://senamirmir.com/interviews/theme/9-2003/aa/)
 
-* Books by, and in honor of, Amha Asfaw are available from Amazon:
+* Books by, and in honor of, Amha Asfaw are available from Amazon:  
   [https://www.amazon.com/s?k=Amha+Asfaw](https://www.amazon.com/s?k=Amha+Asfaw)
 
 ## License
