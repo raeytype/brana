@@ -1,5 +1,5 @@
 # Brana
-The Ethiopic Brana Typeface.
+## The Brana Regular Ethiopic Typeface 
 
 The Brana Ethiopic font was created by Missouri University faculty member, researcher, author, poet and painter, Amha Asfaw in 1995. The Brana font came with the Brana 90 word processor software developed initially for Windows 3.1.  Brana 90 was notable as the first Windows based software made specifically for composition in Amharic and other Ethiopian languages . 
 
@@ -12,6 +12,11 @@ To learn more about the author:
 
 * Books by, and in honor of, Amha Asfaw are available from Amazon:  
   [https://www.amazon.com/s?k=Amha+Asfaw](https://www.amazon.com/s?k=Amha+Asfaw)
+
+## Contributing
+
+Volunteers are welcome to contribute extensions to Brana.  For example, kerning, optical enhancements for mobile devices, OpenType features, and glyph additions
+are all needed and welcomed.
 
 ## License
 The Brana font and its sources are distributed under the
