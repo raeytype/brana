@@ -19,5 +19,5 @@ are all needed and welcomed.
 
 ## License
 The Brana font and its sources are distributed under the
-[Open Font License](https://scripts.sil.org/OFL).
+[SIL Open Font License v1.1](https://scripts.sil.org/OFL).
 A [copy of the license](OFL.txt) is included in this repository.
