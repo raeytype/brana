@@ -24,6 +24,16 @@
     <key>y</key>
     <integer>250</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
@@ -63,7 +73,9 @@ https://github.com/raeytype/brana-regular/</string>
   <key>openTypeNameDesigner</key>
   <string>Amha Asfaw</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is Copyright (c) 2000-2013, SIL International (http://scripts.sil.org/) with Reserved Font Names &quot;Abyssinica&quot; and &quot;SIL&quot;.
+  <string>This Font Software is Copyright (c) 2019, RaeyType Foundry (https://github.com/raeytype) with Reserved Font Names &quot;Brana&quot; and &quot;Brana Regular&quot;.
+
+The font is derived with permission from the author, Amha Asfaw, from the &quot;Brana&quot; font originally designed and distributed in 1995 in the Brana software application.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
